@@ -1,0 +1,9 @@
+/home/wquintal/libHelios/test/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/wquintal/libHelios/test/bin/Debug/test.exe.mdb
+/home/wquintal/libHelios/test/bin/Debug/test.exe
+/home/wquintal/libHelios/test/obj/Debug/test.exe
+/home/wquintal/libHelios/test/obj/Debug/test.exe.mdb
+/home/wquintal/libHelios/test/bin/Debug/libBG.dll
+/home/wquintal/libHelios/test/bin/Debug/libBG.dll.mdb
+/home/wquintal/libHelios/test/bin/Debug/libHelios.dll
+/home/wquintal/libHelios/test/bin/Debug/libHelios.dll.mdb

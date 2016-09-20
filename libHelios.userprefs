@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="test/test.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="libBG/libBG.cs">
+    <Files>
+      <File FileName="libHelios/ModuleGenerator.cs" Line="17" Column="3" />
+      <File FileName="libBG/libBG.cs" Line="93" Column="19" />
+      <File FileName="libHelios/IO.cs" Line="180" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libDynamic", "libHelios\libDynamic.csproj", "{04B91440-DCF6-4CE4-A845-F20E50DFD20B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libBG", "libBG\libBG.csproj", "{53CB3F3F-6468-4943-88BF-E48CB380C835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{743A4EEE-1E05-4CA4-9DC7-DD821ACA16B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B91440-DCF6-4CE4-A845-F20E50DFD20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B91440-DCF6-4CE4-A845-F20E50DFD20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B91440-DCF6-4CE4-A845-F20E50DFD20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B91440-DCF6-4CE4-A845-F20E50DFD20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CB3F3F-6468-4943-88BF-E48CB380C835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CB3F3F-6468-4943-88BF-E48CB380C835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CB3F3F-6468-4943-88BF-E48CB380C835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CB3F3F-6468-4943-88BF-E48CB380C835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743A4EEE-1E05-4CA4-9DC7-DD821ACA16B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743A4EEE-1E05-4CA4-9DC7-DD821ACA16B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743A4EEE-1E05-4CA4-9DC7-DD821ACA16B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743A4EEE-1E05-4CA4-9DC7-DD821ACA16B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
